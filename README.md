@@ -24,7 +24,7 @@ The second notebook — titled Task 2 — centers of generating the dataset need
 * The mean income by country (mj)
 * The parent's income class (c_i_parent)
 
-The third notebook — Task 3 — income involves comparing several linear regression models, using an ANOVA, and using logged versions of the same models to find the best model for making an income prediction. At the end of the notebook, the chosen model is compared with the researcher's findings, and is used to make an income prediction. 
+The third notebook — Task 3 — involves comparing several linear regression models, using an ANOVA in one instance, and using logged versions of the same models to find the best one for making an income prediction. At the end of the notebook, the chosen model is compared with the researcher's findings, and is used to make an income prediction. 
 
 The new_functions.py file was used to help with the kmeans clustering, and was created by OpenClassrooms for a course.
 
