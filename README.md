@@ -13,7 +13,9 @@ After, in the same notebook, is a short preliminary analysis that looks at the:
 * The dollar PPP unit and an explanation of why (not why not) it's a good method to compare countries 
 * A graph showing how diverse countries are in terms of income distribution. This graph must represent the income (y-axis, on a log scale) as a function of income class (x-axis) for 5 to 10 countries. Please ensure you represent a diversity of cases. Among the countries that must be present : your own country, and the two countries that have the greatest and lowest Gini index.
 * The Lorenz curve for these countries
+
 In the second notebook — titled Task 2 — centers of generating the dataset needed to make the income prediction models. Using the research papers as a guide, the parent's income class is generated as well. At the end of the notebook, the datasets columns included:
+
 * The country's name (countryname)
 * The child's income class (c_i_child)
 * The child's income (y_child)
@@ -21,6 +23,7 @@ In the second notebook — titled Task 2 — centers of generating the dataset n
 * The Gini Index (gj)
 * The mean income by country (mj)
 * The parent's income class (c_i_parent)
+
 The third income involves comparing several linear regression models, using an ANOVA, and using logged versions of the same models to find the best model for making an income prediction. At the end of the notebook, the chosen model is compared with the researcher's findings, and is used to make an income prediction. 
 
 The new_functions.py file was used to help with the kmeans clustering, and was created by OpenClassrooms for a course.
